@@ -18,8 +18,8 @@ mod "palli/createrepo"
 
 # Modules from Github
 mod "roles",
-  :git => "git@github.com:landuber/Roles.git"
+  :git => "git://github.com/landuber/Roles.git"
 
 mod "profiles",
-  :git => "git@github.com:landuber/Profiles.git"
+  :git => "git://github.com/landuber/Profiles.git"
 
