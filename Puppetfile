@@ -10,6 +10,7 @@ mod "puppetlabs/mcollective"
 mod "puppetlabs/nodejs"
 mod "puppetlabs/mongodb"
 mod "palli/createrepo"
+mod "saz/motd"
 
 
 
@@ -17,6 +18,10 @@ mod "palli/createrepo"
 
 
 # Modules from Github
+
+mod "base",
+  :git => "git://github.com/landuber/Base.git"
+
 mod "roles",
   :git => "git://github.com/landuber/Roles.git"
 
