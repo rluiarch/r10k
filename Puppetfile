@@ -22,11 +22,11 @@ mod "saz/motd"
 # Modules from Github
 
 mod "base",
-  :git => "git://github.com/landuber/Base.git"
+  :git => "git://github.com/rluiarch/Base.git"
 
 mod "roles",
-  :git => "git://github.com/landuber/Roles.git"
+  :git => "git://github.com/rluiarch/Roles.git"
 
 mod "profiles",
-  :git => "git://github.com/landuber/Profiles.git"
+  :git => "git://github.com/rluiarch/Profiles.git"
 
